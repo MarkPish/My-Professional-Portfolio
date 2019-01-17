@@ -571,7 +571,7 @@ nav.fixed-top .nav-item .nav-link:before {
 }
 
 .about-left li {
-	color: #333;
+	color: rgb(10, 2, 122);
 	display: inline-block;
 	margin-top: 15px;
 	width: 49%;

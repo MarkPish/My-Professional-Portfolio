@@ -52,7 +52,7 @@ This files contents are outlined below >>>>
 ==================================================*/
 
 body {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-style: normal;
 	font-size: 14px;
 	color: #6f6f6f;
@@ -97,7 +97,7 @@ img {
 	display: inline-block;
 	font-family: "Montserrat", sans-serif;
 	font-size: 45px;
-	font-weight: 800;
+	font-weight: 500;
 	letter-spacing: 0;
 	margin-bottom: 10px;
 	position: relative;
@@ -295,11 +295,11 @@ nav.navbar {
 
 nav.navbar .logo {
 	font-size: 22px;
-	font-weight: 700;
+	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #fff;
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 nav.navbar .navbar-toggler {
@@ -425,7 +425,7 @@ nav.fixed-top .nav-item .nav-link:before {
 .banner-welcome>h3 {
 	color: #fff;
 	font-size: 70px;
-	font-weight: 900;
+	font-weight: 500;
 	margin-bottom: 20px;
 }
 
